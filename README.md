@@ -32,3 +32,7 @@ Print ln “Vols adquirir un cotxe d’aquesta marca S/N?”
 
 //A més guardarem en un array els cotxes que s’han venut amb el model i el nom del client
 
+
+
+
+//El projecte es troba a la branca master
